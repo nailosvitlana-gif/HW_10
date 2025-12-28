@@ -1,0 +1,104 @@
+    1  git
+    2  cd
+    3  help dir
+    4  -c
+    5  c
+    6  ls
+    7  cd
+    8  ls
+    9  clear
+   10  ls
+   11  dir
+   12  cd Репозиторій
+   13  cd desktop
+   14  ls
+   15  clear
+   16  ls
+   17  cd cd..
+   18  cd ..
+   19  ls
+   20  cd
+   21  cd
+   22  clear
+   23  cd desktop
+   24  clear
+   25  dir
+   26  cd Репозиторій
+   27  clear
+   28  cd ..
+   29  clear
+   30  git config --global user.name "Svitlana Nailo"
+   31  git config --global user.email "nailo.svitlana@gmail.com"
+   32  git config --list
+   33  cd
+   34  dir
+   35  cd Репозиторій
+   36  git clone github.com
+   37  сдуфк
+   38  clear
+   39  clone repository https://github.com/nailosvitlana-gif/HW_10
+   40  [200~clone repository https://github.com/nailosvitlana-gif/HW_10
+   41  clear
+   42  clone repository "[200~
+   43  clear
+   44  cd
+   45  repo clone nailosvitlana-gif/HW_10
+   46  help dir
+   47  help clone
+   48  help clone directory
+   49  clear
+   50  cd репозиторій
+   51  git clone https://github.com/nailosvitlana-gif/HW_10.git
+   52  cd HW_10
+   53  touch text_ignore.txt
+   54  vi .gitignore 
+   55  pwd
+   56  ls
+   57  cd Репозиторій/HW_10/
+   58  pdw
+   59  pwd
+   60  ls
+   61  help
+   62  git --h
+   63  ls -a
+   64  git status
+   65  echo text_ignore.txt >> .gitignore
+   66  git status
+   67  nano .gitignore
+   68  git status
+   69  git add
+   70  git add .
+   71  git commit -m
+   72  git commit -m "add file to git ignore"
+   73  git status
+   74  git push
+   75  touch main_test.txt
+   76  git add .
+   77  git commit -m "add new file"
+   78  git push
+   79  cd ..
+   80  cd ..
+   81  git checkout -b develop
+   82  cd Репозириторій
+   83  cd Репозиторій
+   84  git checkout -b develop
+   85  pvd
+   86  pwd
+   87  cd HW_10/
+   88  git checkout -b develop
+   89  touch develop_test.txt
+   90  git add .
+   91  git commit -m "creat a new branch"
+   92  echo "just a small change" >> develop_test.txt
+   93  git status
+   94  git add .
+   95  git commit -m "change file devilop_test.txt"
+   96  git push
+   97  git checkout "main"
+   98  git merge develop
+   99  git log
+  100  hystory > command_list.csv
+  101  git history
+  102  git --help
+  103  history
+  104  history > command_list.csv
